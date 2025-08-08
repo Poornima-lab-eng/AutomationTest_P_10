@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-29T13:52:25 IST" name="Default suite" finished-at="2025-07-29T13:52:41 IST" duration-ms="15791">
+    <groups>
+    </groups>
+    <test started-at="2025-07-29T13:52:25 IST" name="Default test" finished-at="2025-07-29T13:52:41 IST" duration-ms="15791">
+      <class name="Extentreports.AddScreenshotIntoReports">
+        <test-method signature="AddScreenshot()[pri:0, instance:Extentreports.AddScreenshotIntoReports@2a4fb17b]" started-at="2025-07-29T13:52:25 IST" name="AddScreenshot" finished-at="2025-07-29T13:52:41 IST" duration-ms="15619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddScreenshot -->
+      </class> <!-- Extentreports.AddScreenshotIntoReports -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
